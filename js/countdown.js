@@ -9,8 +9,8 @@ document.addEventListener("DOMContentLoaded", function() {
     simplyCountdown(countdownElement, {
         year: 2024,
         month: 1,
-        day: 30,
-        hours: 8,
+        day: 31,
+        hours: 12,
         minutes: 2,
         seconds: 50,
         words: {
