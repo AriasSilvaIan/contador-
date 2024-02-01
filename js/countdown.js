@@ -7,9 +7,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Configura la cuenta regresiva con las opciones optimizadas
     simplyCountdown(countdownElement, {
-        year: 2024,
-        month: 1,
-        day: 31,
+        year: 2025,
+        month: 12,
+        day: 30,
         hours: 12,
         minutes: 2,
         seconds: 50,
